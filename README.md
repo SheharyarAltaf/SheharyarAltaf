@@ -1,4 +1,4 @@
-#  About Me:
+#  About Me: Hi There! I am Sheharyar Altaf. I am a 6th semester student of BS Computer Science at UET Lahore.
 🔭 I’m currently working on Machine Leaning and Python Libraries<br> I’m looking to collaborate on AI & ML Projects<br>🤝 🌱 I’m currently learning Python Libraries and Backend Web Development<br>💬 Ask me about Database, Data Structure, Designing, Frontend Web Development and Machine Learning<br>⚡ Fun fact Graphic Designing at Adobe Applications.
 
 
